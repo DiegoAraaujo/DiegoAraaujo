@@ -1,6 +1,8 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=0:0F172A,100:1E40AF&height=180&section=header&text=Jos%C3%A9%20Di%C3%AAgo&fontSize=48&fontColor=FFFFFF&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Python%20%26%20TypeScript&descAlignY=60&descSize=18)
+![header](https://capsule-render.vercel.app/api?type=soft&color=0:0F172A,100:1E40AF&height=160&section=header)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+eu+sou+o+Di%C3%AAgo+%F0%9F%91%8B;Full+Stack+Developer;Python+%7C+TypeScript+%7C+React)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=DiegoAraaujo&color=1E40AF&style=flat)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/josediegoaraujo)
