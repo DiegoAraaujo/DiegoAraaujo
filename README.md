@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E40AF,100:3B82F6&height=200&section=header" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+eu+sou+o+Di%C3%AAgo+%F0%9F%91%8B;Desenvolvedor+Full+Stack;Python+%7C+TypeScript+%7C+React)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+eu+sou+o+Di%C3%AAgo+%F0%9F%91%8B;Desenvolvedor+Full+Stack;Seja+bem-vindo+%3A%29)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/josediegoaraujo)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diegoaraaujo8@gmail.com)
