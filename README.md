@@ -13,13 +13,14 @@
 
 ### 👋 Sobre mim
 
-<img src="./assets/profile.jpg" width="180" align="right" style="border-radius: 50%; margin-left: 20px;" />
+<img src="./assets/profile.jpg" width="200" align="right"  style="border-radius: 50%; margin-left: 300px;"/>
 
-Sou estudante de **Ciência da Computação no Instituto Federal do Ceará (IFCE)**. Trabalho com desenvolvimento full stack — do frontend em **React/Next.js** ao backend em **Node.js/NestJS** e **Python/FastAPI**.
+Sou desenvolvedor Full Stack, atuando do frontend em **React/Next.js** ao backend em **Node.js/NestJS** e **Python/FastAPI**.
 
-Sou certificado **AWS Cloud Practitioner** ☁️ e estou atualmente aprofundando conhecimento em **AI Engineering**: RAG, function calling e arquiteturas baseadas em agentes.
-
-Já ajudei a organizar um hackathon (Devathon) com case real de uma rede de restaurantes, e gosto de tirar projetos do papel do início ao fim — do banco de dados até a interface.
+- 🎓 Ciência da Computação — Instituto Federal do Ceará
+- ☁️ Certificado AWS Cloud Practitioner
+- 💼 Estagiário Full Stack na Compass UOL
+- 🤖 Estudando IA aplicada — já usei LLMs em produção no projeto SI CRM
 
 <br clear="right"/>
 
