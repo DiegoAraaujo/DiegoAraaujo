@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E40AF,100:3B82F6&height=200&section=header" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+eu+sou+o+Di%C3%AAgo+%F0%9F%91%8B;Full+Stack+Developer;Python+%7C+TypeScript+%7C+React)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+eu+sou+o+Di%C3%AAgo+%F0%9F%91%8B;Desenvolvedor+Full+Stack;Python+%7C+TypeScript+%7C+React)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/josediegoaraujo)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diegoaraaujo8@gmail.com)
@@ -15,7 +15,7 @@
 
 <img src="./assets/profile.jpg" width="180" align="right" style="border-radius: 50%; margin-left: 20px;" />
 
-Sou estudante de **Ciência da Computação no Instituto Federal do Ceará (IFCE)**, com formatura prevista para 2027, baseado em Quixelô, Ceará. Trabalho com desenvolvimento full stack — do frontend em **React/Next.js** ao backend em **Node.js/NestJS** e **Python/FastAPI**.
+Sou estudante de **Ciência da Computação no Instituto Federal do Ceará (IFCE)**. Trabalho com desenvolvimento full stack — do frontend em **React/Next.js** ao backend em **Node.js/NestJS** e **Python/FastAPI**.
 
 Sou certificado **AWS Cloud Practitioner** ☁️ e estou atualmente aprofundando conhecimento em **AI Engineering**: RAG, function calling e arquiteturas baseadas em agentes.
 
@@ -25,7 +25,7 @@ Já ajudei a organizar um hackathon (Devathon) com case real de uma rede de rest
 
 ---
 
-### 🛠️ Main Stack
+### 🛠️ Stack Principal
 
 <table>
 <tr>
@@ -45,14 +45,14 @@ Já ajudei a organizar um hackathon (Devathon) com case real de uma rede de rest
 </td>
 <td align="center" width="25%">
 
-**Databases & Cloud**
+**Bancos de Dados & Cloud**
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,aws" />
 
 </td>
 <td align="center" width="25%">
 
-**Testing & Tools**
+**Testes & Ferramentas**
 
 <img src="https://skillicons.dev/icons?i=jest,prisma,docker,git" />
 
@@ -124,10 +124,9 @@ Sistema de gestão para barbearias e salões de beleza.
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Estatísticas do GitHub
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=DiegoAraaujo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=DiegoAraaujo&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
@@ -143,6 +142,5 @@ Sistema de gestão para barbearias e salões de beleza.
 </picture>
 </div>
 
----
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E40AF,50:0F172A,100:0F172A&height=100&section=footer" width="100%" />
