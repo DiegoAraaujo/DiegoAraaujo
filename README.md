@@ -13,7 +13,7 @@
 
 ### 👋 Sobre mim
 
-<img src="./assets/profile.jpg" width="200" align="right"  style="border-radius: 50%; margin-left: 300px;"/>
+<img src="./assets/profile.png" width="200" align="right"  style="border-radius: 50%; margin-left: 300px;"/>
 
 Sou desenvolvedor Full Stack, atuando do frontend em **React/Next.js** ao backend em **Node.js/NestJS** e **Python/FastAPI**.
 
