@@ -68,28 +68,30 @@ Já ajudei a organizar um hackathon (Devathon) com case real de uma rede de rest
 <tr>
 <td width="50%">
 
-### 🏋️ C4 FITNESS
-Sistema completo de gestão de academia — clientes, assinaturas, financeiro, painel de TV e relatórios em PDF.
+### 💰 Fynsy
+Plataforma de organização financeira pessoal — registro de gastos, histórico e gráficos para visualizar e controlar as finanças com clareza.
 
 ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![TanStack Query](https://img.shields.io/badge/-TanStack%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Fastify](https://img.shields.io/badge/-Fastify-000000?style=flat-square&logo=fastify&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 
-[🔗 Ver repositório](https://github.com/DiegoAraaujo/c4-fitness)
+[🔗 Front-end](https://github.com/DiegoAraaujo/finsy-front) · [🔗 Back-end](https://github.com/DiegoAraaujo/finsy-back)
 
 </td>
 <td width="50%">
 
 ### 🤖 SI CRM
-CRM em três camadas com microsserviço de IA usando LLaMA 3.3 70B via Groq.
+CRM em três camadas para o setor imobiliário, com microsserviço de IA usando LLaMA 3.3 70B via Groq.
 
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-[🔗 Ver repositório](https://github.com/DiegoAraaujo/si-crm)
+[🔗 Front-end](https://github.com/DiegoAraaujo/si-crm-frontend) · [🔗 Back-end](https://github.com/DiegoAraaujo/si-crm-backend) · [🔗 AI Service](https://github.com/DiegoAraaujo/si-crm-ai)
 
 </td>
 </tr>
@@ -110,13 +112,16 @@ API de sincronização de estoque com testes automatizados e webhooks.
 <td width="50%">
 
 ### 💈 LAN System
-Sistema de gestão para barbearias e salões de beleza.
+Sistema completo de gestão para barbearias e salões — do cadastro de clientes à análise de faturamento, com agendamento inteligente e fidelização por níveis.
 
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Zustand](https://img.shields.io/badge/-Zustand-433E38?style=flat-square)
 ![Recharts](https://img.shields.io/badge/-Recharts-22B5BF?style=flat-square)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 
-[🔗 Ver repositório](https://github.com/DiegoAraaujo/lan-system)
+[🔗 Front-end](https://github.com/DiegoAraaujo/LAN-FRONT) · [🔗 Back-end](https://github.com/DiegoAraaujo/LAN-BACK)
 
 </td>
 </tr>
