@@ -19,7 +19,7 @@ Sou desenvolvedor Full Stack, atuando do frontend em **React/Next.js** ao backen
 
 - 🎓 Ciência da Computação — Instituto Federal do Ceará
 - ☁️ Certificado AWS Cloud Practitioner
-- 💼 Estagiário Full Stack na Compass UOL
+- 💼 Experiência como Estagiário Full Stack na Compass UOL
 - 🤖 Estudando IA aplicada — já usei LLMs em produção no projeto SI CRM
 
 <br clear="right"/>
