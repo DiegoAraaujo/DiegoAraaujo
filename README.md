@@ -5,6 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+eu+sou+o+Di%C3%AAgo+%F0%9F%91%8B;Desenvolvedor+Full+Stack;Seja+bem-vindo+%3A%29)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/josediegoaraujo)
+[![Portfolio](https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-flame-sigma-imaf4941lw.vercel.app)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diegoaraaujo8@gmail.com)
 
 </div>
